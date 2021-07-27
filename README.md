@@ -54,3 +54,4 @@ Other links:
 * [OECD Guidance Document on the Validation of (Q)SAR Models](https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?doclanguage=en&cote=env/jm/mono(2007)2)
 * [JRC QSAR Model Database](https://ec.europa.eu/jrc/en/scientific-tool/jrc-qsar-model-database)
 * [VEGA Hub of IRFMN](https://www.vegahub.eu/)
+* [Wang et al (2020)](https://dx.doi.org/10.1021/acs.chemrestox.0c00316)
