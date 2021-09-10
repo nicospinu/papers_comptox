@@ -1,7 +1,7 @@
 # Publications on Computational Toxicology
 
 ### About this repository
-I created this repository for the purpose of understanding what the current trends are in the development of computational models in toxicology, especially in the context of QSARs/QSPRs. It includes a series of personal notes that summarises main ideas of recent published articles in peer-reviewed Journals that can serve as promising examples.
+I created this repository for the purpose of understanding what the current trends are in the development of computational models in toxicology, especially in the context of QSARs/QSPRs. It includes a series of personal notes that summarise main ideas of recent published articles in peer-reviewed Journals that can serve as promising examples.
 
 ### QSARs/QSPRs definition
 Quantitative structure-activity relationships (QSARs) and quantitative structure-property relationships (QSPRs) models are mathematical models developed to assess chemical induced toxicity using continuous (regression, e.g., LD50) or discrete (classification, i.e., binary, multi-classes) predictions based on molecular descriptors that are computationally calculated using a range of software, or determined experimentally from the molecules themselves to describe the structure of the chemical, e.g., the relationship between physico-chemical or biochemical properties (e.g., LogP) and biological activity. It allows building the model based on the correlation between the variable of interest (target toxicity) and chemical structure and associated properties. 
